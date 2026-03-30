@@ -308,7 +308,7 @@ consistent relationships between xG and goals across seasons.
 This is real and expected, not novel. It is not exploitable
 through a match-level trading signal.
 
-![Season persistence](../figures/nb07_fig3_season_persistence.png)
+![Season persistence](figures/nb07_fig3_season_persistence.png)
 
 ---
 
