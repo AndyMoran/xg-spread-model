@@ -1,0 +1,30 @@
+team,n_obs,adf_stat,adf_pval,stationary
+Arsenal,378,-5.24,0.0,True
+Aston Villa,264,-4.446,0.0,True
+Burnley,264,-5.15,0.0,True
+Brighton,302,-4.773,0.0,True
+Chelsea,378,-4.277,0.0,True
+Crystal Palace,378,-5.637,0.0,True
+Manchester City,378,-6.135,0.0,True
+Manchester United,378,-4.726,0.0,True
+Liverpool,378,-4.946,0.0,True
+Leicester,340,-4.541,0.0,True
+Southampton,340,-5.045,0.0,True
+Wolverhampton Wanderers,264,-4.374,0.0,True
+Tottenham,378,-5.297,0.0,True
+West Ham,378,-5.19,0.0,True
+Newcastle United,340,-6.222,0.0,True
+Fulham,188,-3.985,0.001,True
+Bournemouth,302,-4.039,0.001,True
+Everton,378,-4.197,0.001,True
+Leeds,112,-4.137,0.001,True
+Watford,226,-3.852,0.002,True
+Brentford,150,-3.775,0.003,True
+Sheffield United,112,-2.949,0.04,True
+West Bromwich Albion,150,-2.742,0.067,False
+Stoke,112,-2.634,0.086,False
+Swansea,112,-2.523,0.11,False
+Norwich,112,-2.492,0.117,False
+Sunderland,74,-2.336,0.161,False
+Nottingham Forest,112,-2.177,0.215,False
+Huddersfield,74,-2.034,0.272,False

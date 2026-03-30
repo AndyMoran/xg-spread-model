@@ -1,0 +1,9 @@
+team,event,event_date,detected,transitions_in_window,regime_at_event
+Manchester United,Solskjaer sacked,2021-11-21,True,3,Break
+Arsenal,Emery sacked,2019-11-01,True,1,Break
+Arsenal,Arteta appointed,2019-12-20,True,2,Normal
+Manchester United,Ten Hag appointed,2022-04-28,True,4,Break
+Liverpool,Klopp appointed,2015-10-08,False,0,Break
+Leicester,Puel sacked,2019-02-26,True,1,Break
+Southampton,Relegated — structural endpoint,2023-05-28,True,1,Break
+Crystal Palace,Vieira appointed,2021-07-05,True,1,Break

@@ -1,0 +1,150 @@
+season,team,n_obs,adf_pval,eligible,reason
+2017,Arsenal,74,,False,insufficient_history
+2017,Bournemouth,74,,False,insufficient_history
+2017,Burnley,36,,False,insufficient_history
+2017,Chelsea,74,,False,insufficient_history
+2017,Crystal Palace,74,,False,insufficient_history
+2017,Everton,74,,False,insufficient_history
+2017,Leicester,74,,False,insufficient_history
+2017,Liverpool,74,,False,insufficient_history
+2017,Manchester City,74,,False,insufficient_history
+2017,Manchester United,74,,False,insufficient_history
+2017,Newcastle United,36,,False,insufficient_history
+2017,Southampton,74,,False,insufficient_history
+2017,Stoke,74,,False,insufficient_history
+2017,Swansea,74,,False,insufficient_history
+2017,Tottenham,74,,False,insufficient_history
+2017,Watford,74,,False,insufficient_history
+2017,West Bromwich Albion,74,,False,insufficient_history
+2017,West Ham,74,,False,insufficient_history
+2018,Arsenal,112,,False,insufficient_history
+2018,Bournemouth,112,,False,insufficient_history
+2018,Brighton,36,,False,insufficient_history
+2018,Burnley,74,,False,insufficient_history
+2018,Chelsea,112,,False,insufficient_history
+2018,Crystal Palace,112,,False,insufficient_history
+2018,Everton,112,,False,insufficient_history
+2018,Huddersfield,36,,False,insufficient_history
+2018,Leicester,112,,False,insufficient_history
+2018,Liverpool,112,,False,insufficient_history
+2018,Manchester City,112,,False,insufficient_history
+2018,Manchester United,112,,False,insufficient_history
+2018,Newcastle United,74,,False,insufficient_history
+2018,Southampton,112,,False,insufficient_history
+2018,Tottenham,112,,False,insufficient_history
+2018,Watford,112,,False,insufficient_history
+2018,West Ham,112,,False,insufficient_history
+2019,Arsenal,150,0.06,False,non_stationary
+2019,Aston Villa,36,,False,insufficient_history
+2019,Bournemouth,150,0.011,True,ok
+2019,Brighton,74,,False,insufficient_history
+2019,Burnley,112,,False,insufficient_history
+2019,Chelsea,150,0.211,False,non_stationary
+2019,Crystal Palace,150,0.035,True,ok
+2019,Everton,150,0.026,True,ok
+2019,Leicester,150,0.007,True,ok
+2019,Liverpool,150,0.001,True,ok
+2019,Manchester City,150,0.006,True,ok
+2019,Manchester United,150,0.026,True,ok
+2019,Newcastle United,112,,False,insufficient_history
+2019,Norwich,36,,False,insufficient_history
+2019,Southampton,150,0.034,True,ok
+2019,Tottenham,150,0.007,True,ok
+2019,Watford,150,0.008,True,ok
+2019,West Ham,150,0.005,True,ok
+2019,Wolverhampton Wanderers,36,,False,insufficient_history
+2020,Arsenal,188,0.012,True,ok
+2020,Aston Villa,74,,False,insufficient_history
+2020,Brighton,112,,False,insufficient_history
+2020,Burnley,150,0.003,True,ok
+2020,Chelsea,188,0.082,False,non_stationary
+2020,Crystal Palace,188,0.004,True,ok
+2020,Everton,188,0.018,True,ok
+2020,Fulham,36,,False,insufficient_history
+2020,Leicester,188,0.004,True,ok
+2020,Liverpool,188,0.0,True,ok
+2020,Manchester City,188,0.001,True,ok
+2020,Manchester United,188,0.005,True,ok
+2020,Newcastle United,150,0.012,True,ok
+2020,Sheffield United,36,,False,insufficient_history
+2020,Southampton,188,0.011,True,ok
+2020,Tottenham,188,0.0,True,ok
+2020,West Bromwich Albion,112,,False,insufficient_history
+2020,West Ham,188,0.001,True,ok
+2020,Wolverhampton Wanderers,74,,False,insufficient_history
+2021,Arsenal,226,0.007,True,ok
+2021,Aston Villa,112,,False,insufficient_history
+2021,Brighton,150,0.057,False,non_stationary
+2021,Burnley,188,0.001,True,ok
+2021,Chelsea,226,0.056,False,non_stationary
+2021,Crystal Palace,226,0.001,True,ok
+2021,Everton,226,0.014,True,ok
+2021,Leeds,36,,False,insufficient_history
+2021,Leicester,226,0.0,True,ok
+2021,Liverpool,226,0.0,True,ok
+2021,Manchester City,226,0.0,True,ok
+2021,Manchester United,226,0.002,True,ok
+2021,Newcastle United,188,0.002,True,ok
+2021,Norwich,74,,False,insufficient_history
+2021,Southampton,226,0.003,True,ok
+2021,Tottenham,226,0.0,True,ok
+2021,Watford,188,0.01,True,ok
+2021,West Ham,226,0.0,True,ok
+2021,Wolverhampton Wanderers,112,,False,insufficient_history
+2022,Arsenal,264,0.001,True,ok
+2022,Aston Villa,150,0.013,True,ok
+2022,Bournemouth,188,0.006,True,ok
+2022,Brentford,36,,False,insufficient_history
+2022,Brighton,188,0.007,True,ok
+2022,Chelsea,264,0.004,True,ok
+2022,Crystal Palace,264,0.0,True,ok
+2022,Everton,264,0.002,True,ok
+2022,Fulham,74,,False,insufficient_history
+2022,Leeds,74,,False,insufficient_history
+2022,Leicester,264,0.0,True,ok
+2022,Liverpool,264,0.0,True,ok
+2022,Manchester City,264,0.0,True,ok
+2022,Manchester United,264,0.0,True,ok
+2022,Newcastle United,226,0.0,True,ok
+2022,Southampton,264,0.0,True,ok
+2022,Tottenham,264,0.0,True,ok
+2022,West Ham,264,0.0,True,ok
+2022,Wolverhampton Wanderers,150,0.012,True,ok
+2023,Arsenal,302,0.0,True,ok
+2023,Aston Villa,188,0.006,True,ok
+2023,Bournemouth,226,0.004,True,ok
+2023,Brentford,74,,False,insufficient_history
+2023,Brighton,226,0.001,True,ok
+2023,Burnley,226,0.0,True,ok
+2023,Chelsea,302,0.004,True,ok
+2023,Crystal Palace,302,0.0,True,ok
+2023,Everton,302,0.002,True,ok
+2023,Fulham,112,,False,insufficient_history
+2023,Liverpool,302,0.0,True,ok
+2023,Manchester City,302,0.0,True,ok
+2023,Manchester United,302,0.002,True,ok
+2023,Newcastle United,264,0.0,True,ok
+2023,Nottingham Forest,36,,False,insufficient_history
+2023,Sheffield United,74,,False,insufficient_history
+2023,Tottenham,302,0.0,True,ok
+2023,West Ham,302,0.0,True,ok
+2023,Wolverhampton Wanderers,188,0.004,True,ok
+2024,Arsenal,340,0.0,True,ok
+2024,Aston Villa,226,0.001,True,ok
+2024,Bournemouth,264,0.002,True,ok
+2024,Brentford,112,,False,insufficient_history
+2024,Brighton,264,0.001,True,ok
+2024,Chelsea,340,0.001,True,ok
+2024,Crystal Palace,340,0.0,True,ok
+2024,Everton,340,0.002,True,ok
+2024,Fulham,150,0.021,True,ok
+2024,Leicester,302,0.0,True,ok
+2024,Liverpool,340,0.0,True,ok
+2024,Manchester City,340,0.0,True,ok
+2024,Manchester United,340,0.0,True,ok
+2024,Newcastle United,302,0.0,True,ok
+2024,Nottingham Forest,74,,False,insufficient_history
+2024,Southampton,302,0.0,True,ok
+2024,Tottenham,340,0.0,True,ok
+2024,West Ham,340,0.0,True,ok
+2024,Wolverhampton Wanderers,226,0.0,True,ok

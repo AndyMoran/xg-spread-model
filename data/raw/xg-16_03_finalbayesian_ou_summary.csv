@@ -1,0 +1,21 @@
+team,parameter,mean,sd,hdi_5pct,hdi_95pct,r_hat,ess_bulk
+Burnley,theta,0.343,0.063,0.24,0.445,1.0,4425.0
+Burnley,mu,0.053,0.052,-0.031,0.134,1.0,5609.0
+Burnley,sigma,0.277,0.014,0.253,0.299,1.0,4115.0
+Burnley,half_life,2.095,0.424,1.445,2.687,1.0,4425.0
+Burnley,sigma_eq,0.338,0.028,0.295,0.382,1.0,7195.0
+Arsenal,theta,0.199,0.036,0.141,0.261,1.0,5195.0
+Arsenal,mu,-0.099,0.08,-0.233,0.03,1.0,6007.0
+Arsenal,sigma,0.304,0.012,0.283,0.323,1.0,5659.0
+Arsenal,half_life,3.607,0.717,2.491,4.617,1.0,5195.0
+Arsenal,sigma_eq,0.487,0.043,0.421,0.553,1.0,6893.0
+Southampton,theta,0.149,0.034,0.095,0.206,1.0,4073.0
+Southampton,mu,0.11,0.1,-0.047,0.265,1.0,5143.0
+Southampton,sigma,0.254,0.011,0.237,0.271,1.0,5654.0
+Southampton,half_life,4.954,1.668,3.108,6.694,1.0,4073.0
+Southampton,sigma_eq,0.474,0.061,0.393,0.558,1.0,5049.0
+Manchester City,theta,0.249,0.042,0.18,0.318,1.0,4823.0
+Manchester City,mu,-0.111,0.079,-0.242,0.014,1.0,5731.0
+Manchester City,sigma,0.375,0.015,0.35,0.401,1.0,4880.0
+Manchester City,half_life,2.868,0.521,2.075,3.645,1.0,4823.0
+Manchester City,sigma_eq,0.536,0.042,0.47,0.601,1.0,6692.0
