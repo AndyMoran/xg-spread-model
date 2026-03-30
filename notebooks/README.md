@@ -208,7 +208,7 @@ with 4% persistence. This is not a modelling approximation. It is
 a physical impossibility. Had this check been run before building
 the signal pipeline, the project would have stopped here.
 
-![PPS diagnostic](../figures/nb07_fig1_pps_check.png)
+![PPS diagnostic](../figures/figures/nb07_fig1_pps_check.png)
 
 **Rule:** If raw data falls outside the PPS interval for
 autocorrelation or variance, the model describes the smoothing
