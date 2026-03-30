@@ -26,7 +26,7 @@ Gap (real vs structured null):            −1.5pp ← signal dead  (not statist
 
 **The deliverable is not a trading signal. It is a diagnostic framework for mean‑reversion models — and a clear demonstration of how rolling‑mean smoothing can create spurious signals that pass every standard test.**
 
-![Null simulation — no genuine signal](figures/nb07_fig2_null_summary.png)
+![Null simulation — no genuine signal](figures/figures/nb07_fig2_null_summary.png)
 
 ---
 
