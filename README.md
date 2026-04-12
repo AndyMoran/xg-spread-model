@@ -13,7 +13,7 @@ The turning point came when a pipeline‑level null simulation (Step 07) produce
 
 I built a four‑layer quantitative pipeline to test whether the xG–goals spread in Premier League football shows genuine mean reversion that could be used as a trading signal.
 
-The pipeline appeared to confirm strong mean reversion. Every standard validation test passed. But a structured null simulation showed the entire signal came from the 5‑match rolling mean — not from the data — and was statistically indistinguishable from noise.
+The pipeline appeared to confirm strong mean reversion. Every standard validation test passed. But a structured null simulation showed the entire signal came from the 5‑match rolling mean, not from the data, and was statistically indistinguishable from noise.
 
 ```
 Rolling mean null (iid white noise):      91.2%  ← pipeline generates this
@@ -24,7 +24,7 @@ Raw spread structured null Poisson(xG):   87.9%  ← correct null
 Gap (real vs structured null):            −1.5pp ← signal dead  (not statistically distinguishable from noise)
 ```
 
-**The deliverable is not a trading signal. It is a diagnostic framework for mean‑reversion models — and a clear demonstration of how rolling‑mean smoothing can create spurious signals that pass every standard test.**
+**The deliverable is not a trading signal. It is a diagnostic framework for mean‑reversion models; and a clear demonstration of how rolling‑mean smoothing can create spurious signals that pass every standard test.**
 
 ![Null simulation — no genuine signal](figures/figures/nb07_fig2_null_summary.png)
 
@@ -32,7 +32,7 @@ Gap (real vs structured null):            −1.5pp ← signal dead  (not statist
 
 ## Executive Summary
 
-This project tested whether the xG–goals spread in Premier League football behaves like a mean‑reverting financial spread — similar to a spark spread in energy markets — and whether that mean reversion could be traded.
+This project tested whether the xG–goals spread in Premier League football behaves like a mean‑reverting financial spread, similar to a spark spread in energy markets,  and whether that mean reversion could be traded.
 
 The pipeline produced results strong enough to pass every standard validation test:
 
